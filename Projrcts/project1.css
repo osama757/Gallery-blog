@@ -1,0 +1,40 @@
+ img {
+     width: 30%;
+     margin: calc(10%/6);
+ }
+
+ img:hover {
+     filter: drop-shadow(5px 5px 10px #000);
+     transform: translateY(-0.25em);
+ }
+
+ hr {
+     width: 90%;
+ }
+
+ p {
+     text-align: center;
+ }
+
+ div {
+     width: 100px;
+     height: 100px;
+     margin-left: 49%;
+ }
+
+ h1 {
+     text-align: center;
+     font-family: 'Cormorant SC', serif;
+
+ }
+
+ #linkdin {
+     border-radius: 2px;
+
+ }
+
+
+ #github {
+     border-radius: 3px;
+ }
+
